@@ -6,4 +6,6 @@ This project was created to demonstrate the IaC functionality from Snyk to ident
 
 ### Wildcard principal in SQS access policy
 
+Snyk Security Rule: [SNYK-CC-AWS-701](https://security.snyk.io/rules/cloud/SNYK-CC-AWS-701)
+
 ![SNYK-CC-AWS-701](https://github.com/juancarlosjr97/aws-terraform-snyk/assets/36451129/a19d2d54-69d7-4f47-8ce5-1cbeede2ef49).
